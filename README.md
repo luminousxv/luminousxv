@@ -1,7 +1,8 @@
 Hi 👋 <br/>
 ✨I'm learning React-Native to become Mobile Application Front-End developer.✨<br/>
 🚀I'm currently enrolled in Tech University of Korea majoring Computer Engineering.🚀 <br/>
-I'm currently working on [Smart Lock System Based on Internet of Things](http://github.com/luminousxv/Smart-Key). 
+My latest project was [Home-Sensor-EH-RaspberryPi](https://github.com/luminousxv/Home-Sensor-EH-RaspberryPi).
+My Graduation Project is [Smart Key Based on Internet of Things](https://github.com/luminousxv/Smart-Key)
 
 
 ### How to Reach Me
