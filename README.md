@@ -2,7 +2,7 @@
 
 ### How to Reach Me
 
-<a href="mailto:drgvyhn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:drgvyhn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### Platforms
 
